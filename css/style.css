@@ -29,6 +29,7 @@ a:hover {
     z-index: 999999;
     animation-name: slideInLeft;
     animation-duration: 500ms;
+    width: 100%;
 }
 .menu-down-part a {
     color: #33333c;
